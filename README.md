@@ -2,6 +2,11 @@
 
 <a href="https://www.buymeacoffee.com/claitonllemes" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/99222756/210368404-216273fb-c930-453e-b32b-e3614872eba3.png" width="100%"/></a><br>
 
+
+
+https://github.com/GreatApps-LAB/Pulse/assets/99222756/54691afb-8544-4bd2-880f-f909234c960c
+
+
 ```html
 
 <style>
