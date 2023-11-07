@@ -12,8 +12,8 @@
     --highlight-color: rgba(0, 200, 0, 0.2); /* Cor destacada para a sombra durante a animação */
   }
 
-  /* Aplica a animação de pulso ao elemento com ID "e_0000" */
-  #e_0000 {
+  /* Aplica a animação de pulso ao elemento com ID "e_0000000000 .c" */
+  #e_00000000000 .c {
     animation: pulse 2s infinite;
   }
 
